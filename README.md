@@ -1,6 +1,8 @@
 ## INITIAL NOTE
-Clone the git repository and in each directory{frontend and backend} 
+Clone the git repository and in each directory{frontend and backend}
+
 run `npm i`
+
 this will install the necessary dependencies.
 # FRONTEND
 In the project's frontend directory, you can run:
